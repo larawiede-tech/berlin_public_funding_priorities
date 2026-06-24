@@ -105,7 +105,7 @@ Analyzes how Berlin's funding priorities changed between 2020 and 2024, highligh
 ## Project Files
 
 - 📊 Power BI Dashboard: [Berlin Funding Analysis Dashboard](dashboard/Berlin-funding-analysis-dashboard.pbix)
-- 📓 Exploratory Data Analysis: [Berlin_Funding_EDA.ipynb](notebooks/01_eda_funding_priorities.ipynb)
+- 📓 Exploratory Data Analysis: [Berlin_Funding_EDA.ipynb](notebooks/Berlin_Funding_Analysys_EDA.ipynb)
 
 ## Skills Demonstrated
 
